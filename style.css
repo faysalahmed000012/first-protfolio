@@ -51,6 +51,7 @@ h2 {
   margin-right: 5%;
   border-radius: 10px;
   padding-left: 20px;
+  margin-bottom: 200px;
 }
 #baby-web {
   border-left: 7px solid;
@@ -61,6 +62,7 @@ h2 {
   border-left: 7px solid;
   border-image: linear-gradient(salmon, tomato);
   border-image-slice: 1;
+  padding-right: 2px;
 }
 footer p {
   text-align: center;
